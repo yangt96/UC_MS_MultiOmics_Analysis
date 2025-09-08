@@ -18,7 +18,7 @@ Installation
 
 Clone the repository 
 
-git clone https://github.com/YourUsername/UC_MS_MultiOmics_Analysis.git
+git clone https://github.com/yangt96/UC_MS_MultiOmics_Analysis.git
 cd UC_MS_MultiOmics_Analysis
 
 
