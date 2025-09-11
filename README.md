@@ -68,5 +68,4 @@ Notes
 
 All datasets are publicly available from GEO/other databases.
 This repository is made publicly available to ensure transparency and reproducibility of our analyses.
-The repository will remain open.
-If access is required beyond this date, please contact the corresponding author.
+If you have any questions, please contact the corresponding author.
